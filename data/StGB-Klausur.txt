@@ -2,10 +2,13 @@
 
 „Keine Strafe ohne Gesetz“ – auch Gesetzlichkeitsgrundsatz genannt. Gesetzlich verankert in Art. 103 Abs. 3 GG, § 1 StGB und Art.7 Abs. 1 EMRK.
 Beinhaltet vier Bedingungen:
-1. scripta – Keine Strafe ohne (geschriebenes Gesetz)
-2. stricta – Analogieverbot: Es dürfen keine neuen Straftatsbestände geschaffen werden, die im Gesetz bisher nicht verankert sind. Auch nicht durch einen Vergleich mit vorhandenen Strafbestimmungen. Eine Analogie zugunsten des Täters ist hingegen zulässig.
-3. certa – Das Bestimmtheitsgebot. Tatbestand und die damit verbundene Rechtsfolge müssen konkret bestimmt sein, so dass der Bürger anhand des Wortlautes weiss was verboten und was erlaubt ist.
-4. praevia – Das Verbot der Rückwirkung. Es darf nicht rückwirkend ein Straftatbestand geschaffen werden oder dessen Bestrafung verschärft werden. Denn: Für den Zeitpunkt der Tat zählt allein die Handlung, wann der Erfolg eintritt ist dabei nicht relevant.
+I. scripta – Keine Strafe ohne (geschriebenes Gesetz)
+II. stricta – Analogieverbot: Es dürfen keine neuen Straftatsbestände geschaffen werden, die im
+Gesetz bisher nicht verankert sind. Auch nicht durch einen Vergleich mit vorhandenen Strafbestimmungen. Eine Analogie zugunsten des Täters ist hingegen zulässig.
+III. certa – Das Bestimmtheitsgebot. Tatbestand und die damit verbundene Rechtsfolge müssen konkret
+ bestimmt sein, so dass der Bürger anhand des Wortlautes weiss was verboten und was erlaubt ist.
+IV. praevia – Das Verbot der Rückwirkung. Es darf nicht rückwirkend ein Straftatbestand geschaffen
+werden oder dessen Bestrafung verschärft werden. Denn: Für den Zeitpunkt der Tat zählt allein die Handlung, wann der Erfolg eintritt ist dabei nicht relevant.
 
 2.Was besagt die Äquivalenztheorie?
 
@@ -21,9 +24,11 @@ Objektiv zurechenbar ist ein durch menschliches Handeln verursachter Erfolg nur 
 
 5.Welche Erscheinungsformen des Tatbestandsvorsatzes werden unterschieden?
 
-1. Absicht liegt dann vor, wenn es dem Täter gerade darauf ankommt, den Eintritt des tatbestandlichen Erfolges herbeizuführen oder den Umstand zu verwirklichen, für den das Gesetz absichtliches Handeln voraussetzt.
-2. Direkter Vorsatz liegt dann vor, wenn der Täter weiss oder es als sicher voraussieht, dass sein Handeln zur Verwirklichung des Tatbestandes führt.
-3. Eventualvorsatz liegt dann vor,wenn der Täter es für ernstlich möglich hält und sich damit abfindet, dass sein Verhalten zur Verwirklichung des Tatbestandes führen könnte.
+I. Absicht liegt dann vor, wenn es dem Täter gerade darauf ankommt, den Eintritt des tatbestandlichen Erfolges herbeizuführen oder den Umstand zu verwirklichen, für den das Gesetz absichtliches Handeln voraussetzt.
+II. Direkter Vorsatz liegt dann vor, wenn der Täter weiss oder es als sicher voraussieht, dass sein
+ Handeln zur Verwirklichung des Tatbestandes führt.
+III. Eventualvorsatz liegt dann vor,wenn der Täter es für ernstlich möglich hält und sich damit
+abfindet, dass sein Verhalten zur Verwirklichung des Tatbestandes führen könnte.
 
 6. Wo ist der Tatbestandsirrtum geregelt und fällt der error in persona im Hinblick auf § 212 I StGB darunter? Begründen Sie Ihre Entscheidung!
 
@@ -56,11 +61,12 @@ Eine Notwehrlage ist ein gegenwärtiger, rechtswidriger Angriff. Ein Angriff ist
 
 13. Es gibt Fallgruppen, bei deren Vorliegen eine Rechtfertigung nach § 32 StGB verneint wird, obwohl sowohl Notwehrlage als auch Erforderlichkeit der Verteidigung gegeben sind. Benennen Sie 4!
 
-1.Notwehrprovokation
-2. Enge Familienangehörige
-3. Wenn der Angriff erkennbar schuldlos erfolgt oder der Handelnde mit verminderter Einsichts – und Handlungsfähigkeit agiert 4.Bagatellangriffe
-5. Krasses Missverhältnis zwischen Verteidigung und Angriff
-6. Angreifer befindet sich erkennbar im rechtserheblichen Irrtum
+I.Notwehrprovokation
+II. Enge Familienangehörige
+III. Wenn der Angriff erkennbar schuldlos erfolgt oder der Handelnde mit verminderter Einsichts –
+und Handlungsfähigkeit agiert IV.Bagatellangriffe
+V. Krasses Missverhältnis zwischen Verteidigung und Angriff
+VI. Angreifer befindet sich erkennbar im rechtserheblichen Irrtum
 
 14. An welchem Merkmal des § 32 StGB werden diese Einschränkungen festgemacht?
 
@@ -71,10 +77,11 @@ Nennen Sie stichwortartig drei Voraussetzungen der Einwilligung!
 
 Einwilligung ist nicht ausdrücklich geregelt, wird aber aus § 228 StGB „handelt nur dann rechtswidrig“ abgeleitet.
 Voraussetzungen:
-1. Rechtsgutverzicht (Inhalt = Der Einwilligende muss mit dem Eingriff in sein Rechtsgut einverstanden sein, Zeitpunkt = Einwilligung muss vor der Tat erklärt worden sein und während der Tat noch vorliegen, Form = Einwillgung muss konkludent oder ausdrücklich sein)
-2. Dispositionsfähigkeit (Der Einwilligende muss verfügungsbefugt sein)
-3. Einwilligungsfähigkeit (Der Einwilligende muss einsichtsfähig sein)
-4. Freiwilligkeit (keine wesentlichen Willensmängel)
+I. Rechtsgutverzicht (Inhalt = Der Einwilligende muss mit dem Eingriff in sein Rechtsgut
+einverstanden sein, Zeitpunkt = Einwilligung muss vor der Tat erklärt worden sein und während der Tat noch vorliegen, Form = Einwillgung muss konkludent oder ausdrücklich sein)
+II. Dispositionsfähigkeit (Der Einwilligende muss verfügungsbefugt sein)
+III. Einwilligungsfähigkeit (Der Einwilligende muss einsichtsfähig sein)
+IV. Freiwilligkeit (keine wesentlichen Willensmängel)
 
 16.Was ist ein Erlaubnistatbestandsirrtum?
 
@@ -165,9 +172,12 @@ Jede strafrechtliche Verantwortlichkeit setzt a) eine Einsichtsfähigkeit und b)
 
 35.Welche strafrechtlichen Handlungslehren gibt es?
 
-1. Kausale Handlungslehre, sie besagt jedes willensgetragene menschliche Verhalten, das zu einer Veränderung der Außenwelt führt, ist strafrechtlich relevant.
-2. Finale Handlungslehre, sie besagt: nur das zweckgerichtete Menschliche Verhalten ist strafrechtlich relevant.
-3. Soziale/Personale Handlungslehre (heutige Ansicht), sie besagt, dass jedes vom menschlichen Willen beherrschbare oder beherrschtes sozialerhebliches Verhalten strafrechtlich relevant ist.
+I. Kausale Handlungslehre, sie besagt jedes willensgetragene menschliche Verhalten, das zu einer
+Veränderung der Außenwelt führt, ist strafrechtlich relevant.
+II. Finale Handlungslehre, sie besagt: nur das zweckgerichtete Menschliche Verhalten ist
+strafrechtlich relevant.
+III. Soziale/Personale Handlungslehre (heutige Ansicht), sie besagt, dass jedes vom menschlichen
+Willen beherrschbare oder beherrschtes sozialerhebliches Verhalten strafrechtlich relevant ist.
 
 36.Über welche Merkmale wird eine strafrechtlich relevante Handlung von einer Nichthandlung abgegrenzt?
 
@@ -185,9 +195,11 @@ Die Privilegierung ist die Erweiterung eines Grundtatbestandes um strafmildernde
 
 39. Welche Vorsatzformen gibt es?
 
-1. Absicht, dolus directus 1. Grades (Der Täter handelt um einen Erfolg herbeizuführen).
-2.Direkter Vorsatz, dolus directus 2. Grades (Der Täter weiss oder sieht es als sicher voraus, dass ein bestimmter Erfolg eintritt).
-3. Eventualvorsatz, dolus eventualis (Der Täter hält einen Erfolg für möglich und findet sich damit ab).
+I. Absicht, dolus directus 1. Grades (Der Täter handelt um einen Erfolg herbeizuführen).
+II.Direkter Vorsatz, dolus directus 2. Grades (Der Täter weiss oder sieht es als sicher voraus,
+dass ein bestimmter Erfolg eintritt).
+III. Eventualvorsatz, dolus eventualis (Der Täter hält einen Erfolg für möglich und findet sich
+damit ab).
 
 40.Beschreiben Sie den Unterschied zwischen Eventualvorsatz und bewusster Fahrlässigkeit!
 
